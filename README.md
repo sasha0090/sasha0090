@@ -14,12 +14,13 @@
 ```python
 Class SashaStack:
     main_languages = ["Python"]
-    web_scraping = ["Requests", "Scrapy", "Selenium"]
     web_development = ["FastAPI", "Django", "Flask"]
+    web_scraping = ["Requests", "Scrapy", "Selenium", "requests-html"]
     database = ["PostgreSQL", "MySQL", "SQLite"]
     orms = ["SQLAlchemy", "Django ORM"]
-    devops = ["Nginx", "Docker", "Docker Compose"]
+    devops = ["Nginx", "Gunicorn", "Docker", "Docker Compose", "GitHub Actions"]
     tools = ["PyCharm", "Git Bash", "Postman"]
+    other = ["Unittest", "asyncio", "REST API", "Alembic", "Pydantic", "JWT", "JSON", "YAML"]
 ```
 <br>
 
